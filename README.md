@@ -1,7 +1,7 @@
 # kazuate
 数当てゲーム
 
-# Assets
+## Assets
 このプロジェクトをビルドするには、Text Mesh ProのAssetが必要です。
 Assets Storeからインストールしてください。
 
