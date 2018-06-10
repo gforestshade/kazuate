@@ -1,0 +1,34 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main()
+{
+	int i, kotae;
+	int atari;
+
+	char name[20];
+
+	printf("あなたの名前を入力してください。\n");
+	gets(name);
+	printf("こんにちは、あなたは%sさんですね。\n", name);
+	printf("いまからわたしが0から99までの数をひとつ思い浮かべます。\n");
+
+	srand((unsigned)time(NULL));
+	atari = rand() % 100;
+
+	for (i = 0; i < 7; i++){
+		printf("わたしが思い浮かべた数字を入力してください。(残り%d回)\n", 7 - i);
+		scanf("%d", &kotae);
+		if (kotae ==  atari){
+			printf("あたり！\n");
+			exit(0);
+		} else if (kotae < atari) {
+			printf("もっと大きいです\n");
+		} else {
+			printf("もっと小さいです\n");
+		}
+	}
+	printf("時間切れになりました。残念です。\n");
+	return 0;
+}

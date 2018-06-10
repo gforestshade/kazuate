@@ -1,0 +1,40 @@
+﻿{
+  "fadeInDuration": 0.8,
+  "fadeOutDuration": 0.8,
+
+  "messages": [
+    {
+      "chara": "boy",
+      "text": "おばあちゃん\nおばあちゃん"
+    },
+    {
+      "chara": "granma",
+      "text": "なあに",
+      "interval": 1.5
+    },
+    {
+      "chara": "boy",
+      "text": "ぼく、こんどは\nちゃんときくから"
+    },
+    {
+      "chara": "granma",
+      "text": "",
+      "interval": 1.0
+    },
+    {
+      "chara": "boy",
+      "text": "だから、こんどはゆっくりおしえて？"
+    },
+    {
+      "chara": "granma",
+      "text": "......",
+      "interval": 2.5
+    },
+    {
+      "chara": "granma",
+      "text": "ええ\n一緒にやりましょう",
+      "interval": 2.5
+    }
+  ]
+}
+

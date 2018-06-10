@@ -1,0 +1,15 @@
+﻿{
+  "fadeInDuration": 1.0,
+  "fadeOutDuration": 1.0,
+
+  "messages": [
+    {
+      "chara": "granma",
+      "text": "あらあら\n負けちゃったわ"
+    },
+    {
+      "chara": "boy",
+      "text": "わーい"
+    }
+  ]
+}

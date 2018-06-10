@@ -1,0 +1,25 @@
+﻿{
+  "fadeInDuration": 1.0,
+  "fadeOutDuration": 1.0,
+
+  "messages": [
+    {
+      "chara": "granma",
+      "text": "ほっほっほ\n当たってしまったわね"
+    },
+    {
+      "chara": "boy",
+      "text": "あてられちゃったー",
+      "interval":  2.5
+    },
+    {
+      "chara": "granma",
+      "text": "",
+      "interval":  1.0
+    },
+    {
+      "chara": "boy",
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+﻿{
+  "fadeInDuration": 0.8,
+  "fadeOutDuration": 0.8,
+
+  "messages": [
+    {
+      "chara": "boy",
+      "text": "おばあちゃん\nおばあちゃん"
+    },
+    {
+      "chara": "granma",
+      "text": "おや、たかし\nどうしたね",
+      "interval": 1.5
+    },
+    {
+      "chara": "boy",
+      "text": "数当てゲーム\nつくったの"
+    },
+    {
+      "chara": "granma",
+      "text": "おやおや",
+      "interval": 1.5
+    },
+    {
+      "chara": "boy",
+      "text": "やってみて\nやってみて"
+    },
+    {
+      "chara": "granma",
+      "text": "はいはい",
+      "interval": 1.0
+    }
+  ]
+}
+
